@@ -15,6 +15,7 @@ Learn about the core functions of Jenkins, progressing from intermediate to more
 
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Follow any additional instructions in the README file for each lesson.
+[![Build Status](http://18.234.164.249:8080/buildStatus/icon?job=scripts-pipeline)](http://18.234.164.249:8080/job/scripts-pipeline/)
 
 ### Instructor
 
