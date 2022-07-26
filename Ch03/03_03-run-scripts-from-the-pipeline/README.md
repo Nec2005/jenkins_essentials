@@ -29,6 +29,7 @@ sh(‘’’
 ‘’’)
 }
 ```
+[![Build Status](http://18.234.164.249:8080/buildStatus/icon?job=scripts-pipeline)](http://18.234.164.249:8080/job/scripts-pipeline/)
 
 ## The exercise files
 The exercise files for this lesson include a [Jenkinsfile](./Jenkinsfile) and a [script that calculates a Fibonacci sequence](./fibonacci.sh).
